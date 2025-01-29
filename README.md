@@ -1,0 +1,1 @@
+Developed an interactive Power BI dashboard to analyze energy consumption trends. Cleaned and processed large datasets to extract meaningful insights. Identified key patterns and anomalies in energy usage through data visualization. Provided data-driven recommendations to improve energy efficiency. Utilized Power Query, DAX, and statistical analysis for report generation.
